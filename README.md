@@ -12,7 +12,7 @@
 
 #### BE stacks
 [![Java Badge](https://img.shields.io/badge/Java-white?style=flat-square&logo=Java&logoColor=white&color=da1e20)](https://www.java.com/ko/)
-[![Spring Badge](https://img.shields.io/badge/Spring-white?style=flat-square&logo=Spring&logoColor=white&color=6DB33F)](https://spring.io/tools/)
+[![Spring Badge](https://img.shields.io/badge/Spring&nbsp;Boot-white?style=flat-square&logo=SpringBoot&logoColor=white&color=6DB33F)](https://spring.io/tools/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![Oracle Badge](https://img.shields.io/badge/Oracle-white?style=flat-square&logo=Oracle&logoColor=white&color=F80000)](https://www.oracle.com/)
 
