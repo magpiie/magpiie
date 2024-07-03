@@ -23,10 +23,10 @@
 
 <br/>
 
-<details>
-<summary>
-  <strong>🗺GIS tools</strong>
-</summary>
+<details open>
+  <summary>
+    <strong>🗺GIS tools</strong>
+  </summary>
   <br/>
    <a href="https://openlayers.org/"><img src="https://img.shields.io/badge/OpenLayers-white?style=flat-square&logo=OpenLayers&logoColor=white&color=1F6B75"/></a>
    <a href="https://leafletjs.com/"><img src="https://img.shields.io/badge/Leaflet-white?style=flat-square&logo=Leaflet&logoColor=white&color=199900"/></a>
